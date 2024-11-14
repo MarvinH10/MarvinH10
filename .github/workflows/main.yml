@@ -20,12 +20,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate snake.svg
+      - name: Generate snake.svg with dark theme
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          color_snake: "#FFFFFF"   # Snake color in white for contrast against dark
-          color_dots: "#39FF14, #0088FF, #FFFFFF, #FF00FF, #00FFFF" # Colors for the dots
+          color_snake: "#FFFFFF"
+          color_dots: "#39FF14, #0088FF, #FFFFFF, #FF00FF, #00FFFF"
           outputs: dist/snake.svg?palette=github-dark
 
       - name: Push snake.svg to the output branch
