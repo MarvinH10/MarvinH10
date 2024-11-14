@@ -71,7 +71,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MarvinH10/MarvinH10/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MarvinH10/MarvinH10/main/snake.svg" alt="Snake animation" />
 
 ## 🏆 Trofeos de GitHub
 ![](https://github-profile-trophy.vercel.app/?username=MarvinH10&theme=vue-dark&no-frame=true&no-bg=false&margin-w=4)
