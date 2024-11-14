@@ -68,6 +68,7 @@
 </div>
 
 ###
+
 <div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/MarvinH10/MarvinH10/output/snake.svg" />
 </div>
