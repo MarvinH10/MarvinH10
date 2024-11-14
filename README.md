@@ -1,4 +1,5 @@
-<h2 align="left">"¡Hola y bienvenidos a mi perfil de GitHub 👋!"<br><br>Me estoy profundizando hacia el mundo de la programación, redes y telecomunicaciones, en el desarrollo y gestión de soluciones tecnológicas.<br><br>Mis competencias abarcan lenguajes como PHP y Python, así como frameworks modernos como Laravel, Django, Vue 3 y ReactJS.<br><br>A lo largo de mi carrera, he trabajado en la creación de aplicaciones web robustas y escalables, gestionando tanto el front-end como el back-end, además de integrar sistemas complejos.<br><br>También poseo un sólido conocimiento en infraestructura de redes y telecomunicaciones, lo que me permite ofrecer soluciones integrales en diversas áreas tecnológicas.</h2>
+# 💫 Acerca de mí:
+"¡Hola y bienvenidos a mi perfil de GitHub 👋!"<br><br>Me estoy profundizando hacia el mundo de la programación, redes y telecomunicaciones, en el desarrollo y gestión de soluciones tecnológicas.<br><br>Mis competencias abarcan lenguajes como PHP y Python, así como frameworks modernos como Laravel, Django, Vue 3 y ReactJS.<br><br>A lo largo de mi carrera, he trabajado en la creación de aplicaciones web robustas y escalables, gestionando tanto el front-end como el back-end, además de integrar sistemas complejos.<br><br>También poseo un sólido conocimiento en infraestructura de redes y telecomunicaciones, lo que me permite ofrecer soluciones integrales en diversas áreas tecnológicas.
 
 ###
 
@@ -47,11 +48,6 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-# 💫 Acerca de mí:
-"¡Hola y bienvenidos a mi perfil de GitHub!"<br><br>Me estoy profundizando hacia el mundo de la programación, redes y telecomunicaciones, en el desarrollo y gestión de soluciones tecnológicas.<br><br>Mis competencias abarcan lenguajes como PHP y Python, así como frameworks modernos como Laravel, Django, Vue 3 y ReactJS.<br><br>A lo largo de mi carrera, he trabajado en la creación de aplicaciones web robustas y escalables, gestionando tanto el front-end como el back-end, además de integrar sistemas complejos.<br><br>También poseo un sólido conocimiento en infraestructura de redes y telecomunicaciones, lo que me permite ofrecer soluciones integrales en diversas áreas tecnológicas.
 
 
 ## 🌐 Redes Sociales:
