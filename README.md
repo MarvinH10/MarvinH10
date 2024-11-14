@@ -1,5 +1,6 @@
 # 💫 Acerca de mí:
 "¡Hola y bienvenidos a mi perfil de GitHub 👋!"<br><br>Me estoy profundizando hacia el mundo de la programación, redes y telecomunicaciones, en el desarrollo y gestión de soluciones tecnológicas.<br><br>Mis competencias abarcan lenguajes como PHP y Python, así como frameworks modernos como Laravel, Django, Vue 3 y ReactJS.<br><br>A lo largo de mi carrera, he trabajado en la creación de aplicaciones web robustas y escalables, gestionando tanto el front-end como el back-end, además de integrar sistemas complejos.<br><br>También poseo un sólido conocimiento en infraestructura de redes y telecomunicaciones, lo que me permite ofrecer soluciones integrales en diversas áreas tecnológicas.
+<h4 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h4>
 
 ###
 
