@@ -68,6 +68,9 @@
 ### 
 
 🐍 Snake Animation
+
+###
+
 <img src="https://raw.githubusercontent.com/MarvinH10/MarvinH10/main/dist/snake.svg" alt="Snake animation" />
 
 ## 🏆 Trofeos de GitHub
