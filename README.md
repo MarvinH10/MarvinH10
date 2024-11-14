@@ -1,5 +1,8 @@
-# 💫 Acerca de mí:
+# 
+<div align="center">
+  💫 Acerca de mí:
 "¡Hola y bienvenidos a mi perfil de GitHub 👋!"<br><br>Me estoy profundizando hacia el mundo de la programación, redes y telecomunicaciones, en el desarrollo y gestión de soluciones tecnológicas.<br><br>Mis competencias abarcan lenguajes como PHP y Python, así como frameworks modernos como Laravel, Django, Vue 3 y ReactJS.
+</div>
 
 ###
 
