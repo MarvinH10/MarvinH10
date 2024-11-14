@@ -1,19 +1,13 @@
 # 💫 Acerca de mí:
 "¡Hola y bienvenidos a mi perfil de GitHub 👋!"<br><br>Me estoy profundizando hacia el mundo de la programación, redes y telecomunicaciones, en el desarrollo y gestión de soluciones tecnológicas.<br><br>Mis competencias abarcan lenguajes como PHP y Python, así como frameworks modernos como Laravel, Django, Vue 3 y ReactJS.<br><br>A lo largo de mi carrera, he trabajado en la creación de aplicaciones web robustas y escalables, gestionando tanto el front-end como el back-end, además de integrar sistemas complejos.<br><br>También poseo un sólido conocimiento en infraestructura de redes y telecomunicaciones, lo que me permite ofrecer soluciones integrales en diversas áreas tecnológicas.
-
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarvinH10&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinH10&layout=compact&theme=dark&hide_border=false" height="150" alt="languages graph" />
 </div>
-
 ###
-
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXg5cnZ3bnJ4eHYzenh1YW5jeDlsMGFxeWg2ZmJ2bmt5dml3b3FnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
@@ -41,9 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
-
 ###
-
 <div align="left">
   <a href="https://www.instagram.com/marvincampos439?igsh=MWtnYWI5cXgwNnUyaQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -64,11 +56,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
 ### 🐍 Snake Animation
 <img src="https://raw.githubusercontent.com/MarvinH10/MarvinH10/main/dist/snake.svg" alt="Snake animation" />
 
