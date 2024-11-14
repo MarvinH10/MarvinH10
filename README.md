@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-"¡Hola y bienvenidos a mi perfil de GitHub 👋!"<br><br>Me estoy profundizando hacia el mundo de la programación, redes y telecomunicaciones, en el desarrollo y gestión de soluciones tecnológicas.<br><br>Mis competencias abarcan lenguajes como PHP y Python, así como frameworks modernos como Laravel, Django, Vue 3 y ReactJS.<br><br>A lo largo de mi carrera, he trabajado en la creación de aplicaciones web robustas y escalables, gestionando tanto el front-end como el back-end, además de integrar sistemas complejos.<br><br>También poseo un sólido conocimiento en infraestructura de redes y telecomunicaciones, lo que me permite ofrecer soluciones integrales en diversas áreas tecnológicas.
+"¡Hola y bienvenidos a mi perfil de GitHub 👋!"<br><br>Me estoy profundizando hacia el mundo de la programación, redes y telecomunicaciones, en el desarrollo y gestión de soluciones tecnológicas.<br><br>Mis competencias abarcan lenguajes como PHP y Python, así como frameworks modernos como Laravel, Django, Vue 3 y ReactJS.
 
 ###
 
@@ -65,22 +65,9 @@
   </a>
 </div>
 
-### 
-
-🐍 Snake Animation
-
 ###
 <div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/MarvinH10/MarvinH10/output/snake.svg" />
 </div>
 
-## 🏆 Trofeos de GitHub
-![](https://github-profile-trophy.vercel.app/?username=MarvinH10&theme=vue-dark&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Repositorio más contribuido
-![](https://github-contributor-stats.vercel.app/api?username=MarvinH10&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=MarvinH10&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
