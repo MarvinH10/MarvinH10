@@ -1,6 +1,6 @@
 # 💫 Acerca de mí:
 <div align="center">
-"¡Hola y bienvenidos a mi perfil de GitHub 👋!"<br><br>Me estoy profundizando hacia el mundo de la programación, redes y telecomunicaciones, en el desarrollo y gestión de soluciones tecnológicas.<br><br>Mis competencias abarcan lenguajes como JavaScript, PHP y Python, así como frameworks modernos como Laravel, Django, Vue 3 y ReactJS.
+"¡Hola y bienvenidos a mi perfil de GitHub 👋!"<br><br>Soy programador Full Stack
 </div>
 
 ###
