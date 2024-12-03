@@ -1,6 +1,6 @@
 # 💫 Acerca de mí:
 <div align="center">
-"¡Hola y bienvenidos a mi perfil de GitHub 👋!"<br><br>Soy programador Full Stack
+"¡Hola 👋!"<br><br>Soy un programador Full Stack
 </div>
 
 ###
