@@ -1,6 +1,6 @@
 # 💫 Acerca de mí:
 <div align="center">
-"¡Hola 👋!"<br><br>Soy un programador Full Stack
+<h1>"¡Hola 👋!"<br><br>Soy un programador Full Stack</h1>
 </div>
 
 ###
