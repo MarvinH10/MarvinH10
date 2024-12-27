@@ -1,6 +1,6 @@
-# 💫 Acerca de mí:
+# 💫 HOLA MUNDO 👋!:
 <div align="center">
-<h1>"¡Hola Mundo 👋!"<br>Soy Marvin</h1>
+<h1>Que tal me llamo Marvin y me gusta programar.</h1>
 </div>
 
 ###
