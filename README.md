@@ -1,4 +1,4 @@
-# 💫 HOLA MUNDO 👋!:
+# 💫 HOLA MUNDO 👋!
 <div align="center">
 <h1>Que tal me llamo Marvin y me gusta programar.</h1>
 </div>
