@@ -1,7 +1,7 @@
 # 💫 HOLA MUNDO 👋!
 <div align="center">
 <h1>Que tal me llamo Marvin y me gusta programar.</h1>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋+👋;Que tal me llamo Marvin!)
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋+👋;Welcome!)
 </div>
 
 ###
