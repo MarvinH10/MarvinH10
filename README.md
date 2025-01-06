@@ -5,6 +5,7 @@
 
 ###
 
+<p align="center">
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarvinH10&theme=github_dark" />
 </p>
 
