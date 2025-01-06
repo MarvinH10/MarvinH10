@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">
+<p align="center" class="m-2">
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarvinH10&theme=github_dark" />
 <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXg5cnZ3bnJ4eHYzenh1YW5jeDlsMGFxeWg2ZmJ2bmt5dml3b3FnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 </p>
