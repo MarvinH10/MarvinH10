@@ -1,5 +1,5 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarvinH10&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
-<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXg5cnZ3bnJ4eHYzenh1YW5jeDlsMGFxeWg2ZmJ2bmt5dml3b3FnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXg5cnZ3bnJ4eHYzenh1YW5jeDlsMGFxeWg2ZmJ2bmt5dml3b3FnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 
 ###
 
