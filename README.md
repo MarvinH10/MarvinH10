@@ -13,8 +13,8 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=MarvinH10&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <!--  <img src="https://github-readme-stats-joel-ics-projects.vercel.app/api?username=MarvinH10&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged_percentage&theme=dark" height="150" alt="stats graph" /> -->
+  <!--  <img src="https://github-readme-stats.vercel.app/api?username=MarvinH10&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> -->
+  <img src="https://github-readme-stats-joel-ics-projects.vercel.app/api?username=MarvinH10&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged_percentage&theme=dark" height="150" alt="stats graph" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinH10&layout=compact&theme=dark&hide_border=false&custom_title=Frameworks%20que%20Uso" height="150" alt="frameworks graph" />
 </div>
