@@ -1,0 +1,38 @@
+name: Daily Contribution
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 12:00 PM UTC (ajusta según tu zona horaria)
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Configure Git
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+      
+      - name: Update README with timestamp
+        run: |
+          echo "" >> README.md
+          echo "<!-- Last updated: $(date +'%Y-%m-%d %H:%M:%S') -->" >> README.md
+      
+      - name: Commit changes
+        run: |
+          git add README.md
+          git commit -m "🤖 Auto-update: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+      
+      - name: Push changes
+        run: |
+          git push origin main || git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
