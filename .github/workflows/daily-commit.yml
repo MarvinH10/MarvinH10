@@ -2,8 +2,7 @@ name: Daily Contribution
 
 on:
   schedule:
-    # Se ejecuta todos los días a las 12:00 PM UTC (ajusta según tu zona horaria)
-    - cron: '0 12 * * *'
+    - cron: '0 17 * * *'
   workflow_dispatch: # Permite ejecutarlo manualmente
 
 jobs:
