@@ -2,7 +2,7 @@ name: Daily Contribution
 
 on:
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '0 17 * * *'
   workflow_dispatch: # Permite ejecutarlo manualmente
 
 jobs:
