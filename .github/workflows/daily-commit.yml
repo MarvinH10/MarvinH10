@@ -3,9 +3,6 @@ on:
   schedule:
     - cron: "0 17 * * *"  # 12:00 PM Perú (UTC-5)
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -20,7 +17,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Configure Git
         run: |
@@ -36,9 +32,5 @@ jobs:
       - name: Commit and Push
         run: |
           git add README.md
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "🚀 Daily contribution: $(date +'%Y-%m-%d')"
-            git push
-          fi
+          git diff --staged --quiet || git commit -m "🚀 Daily contribution: $(date +'%Y-%m-%d')"
+          git push
